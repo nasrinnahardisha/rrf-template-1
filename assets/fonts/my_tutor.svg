@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
+<defs>
+<font id="my_tutor" horiz-adv-x="1000" >
+<font-face font-family="my_tutor" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="download" unicode="&#xe800;" d="M875 225v-167c0-22-9-43-24-59-16-15-37-24-59-24h-584c-22 0-43 9-59 24-15 16-24 37-24 59v167m167 208l208-208 208 208m-208-208v500" horiz-adv-x="1000" />
+
+<glyph glyph-name="trending-icon" unicode="&#xe801;" d="M958 600l-395-396-209 209-312-313m666 500h250v-250" horiz-adv-x="1000" />
+
+<glyph glyph-name="trending-up" unicode="&#xe802;" d="M981 602l-384-384-202 202-304-303m647 485h243v-242" horiz-adv-x="1056" />
+</font>
+</defs>
+</svg>
